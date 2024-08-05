@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil!!
+## bem vindo ao meu perfil!!
 meu nome é Karina
 <!--
 **kaka-2008/kaka-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
